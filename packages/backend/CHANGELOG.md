@@ -1,5 +1,21 @@
 # example-backend
 
+## 0.2.92-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-azure-devops-backend@0.5.2-next.1
+  - @backstage/plugin-catalog-backend@1.17.0-next.1
+  - @backstage/plugin-auth-backend@0.20.4-next.1
+  - @backstage/plugin-azure-sites-common@0.1.2-next.0
+  - @backstage/plugin-scaffolder-backend@1.21.0-next.1
+  - example-app@0.2.92-next.1
+  - @backstage/config@1.1.1
+  - @backstage/plugin-search-backend-module-techdocs@0.1.14-next.1
+  - @backstage/plugin-techdocs-backend@1.9.3-next.1
+  - @backstage/plugin-kubernetes-backend@0.14.2-next.1
+
 ## 0.2.92-next.0
 
 ### Patch Changes

@@ -1,5 +1,22 @@
 # @backstage/plugin-auth-backend
 
+## 0.20.4-next.1
+
+### Patch Changes
+
+- 23a98f8: Migrated the AWS ALB auth provider to new `@backstage/plugin-auth-backend-module-aws-alb-provider` module package.
+- Updated dependencies
+  - @backstage/plugin-auth-backend-module-aws-alb-provider@0.1.0-next.0
+  - @backstage/config@1.1.1
+  - @backstage/plugin-auth-backend-module-atlassian-provider@0.1.2-next.0
+  - @backstage/plugin-auth-backend-module-github-provider@0.1.7-next.0
+  - @backstage/plugin-auth-backend-module-gitlab-provider@0.1.7-next.0
+  - @backstage/plugin-auth-backend-module-google-provider@0.1.7-next.0
+  - @backstage/plugin-auth-backend-module-microsoft-provider@0.1.5-next.0
+  - @backstage/plugin-auth-backend-module-oauth2-provider@0.1.7-next.0
+  - @backstage/plugin-auth-backend-module-oidc-provider@0.1.0-next.1
+  - @backstage/plugin-auth-backend-module-okta-provider@0.0.3-next.0
+
 ## 0.20.4-next.0
 
 ### Patch Changes

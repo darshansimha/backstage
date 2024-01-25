@@ -1,5 +1,13 @@
 # @backstage/plugin-azure-devops-backend
 
+## 0.5.2-next.1
+
+### Patch Changes
+
+- 25bda45: Fixed bug with `extractPartsFromAsset` that resulted in a leading `.` being removed from the path in an otherwise valid path (ex. `.assets/image.png`). The leading `.` will now only be moved for paths beginning with `./`.
+- Updated dependencies
+  - @backstage/config@1.1.1
+
 ## 0.5.2-next.0
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-techdocs-node
 
+## 1.11.2-next.1
+
+### Patch Changes
+
+- 77e3050: Update to a newer version of `@trendyol-js/openstack-swift-sdk`
+- Updated dependencies
+  - @backstage/config@1.1.1
+  - @backstage/integration-aws-node@0.1.8
+
 ## 1.11.2-next.0
 
 ### Patch Changes

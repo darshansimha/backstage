@@ -1,5 +1,15 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.21.0-next.1
+
+### Patch Changes
+
+- e1c479d: When using node 20+ the `scaffolder-backend` will now throw an error at startup if the `--no-node-snapshot` option was
+  not provided to node.
+- Updated dependencies
+  - @backstage/plugin-scaffolder-backend-module-gitlab@0.2.13-next.0
+  - @backstage/config@1.1.1
+
 ## 1.21.0-next.0
 
 ### Minor Changes
